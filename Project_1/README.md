@@ -1,5 +1,5 @@
 # Исследование объявлений о продаже квартир
- [Рабочая тетрадь проекта](./Exploratory_analysis.ipynb)
+ [Рабочая тетрадь проекта](https://colab.research.google.com/drive/1eOke0Z3FnlPObolaBHi4O4AVA6LeqWbk?usp=sharing)
 
 
 ## Описание проекта
