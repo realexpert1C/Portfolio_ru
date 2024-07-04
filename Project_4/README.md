@@ -14,7 +14,7 @@
 - numpy
 - matplotlib
 - seaborn
-- ploly
+- plotly
 - json
 - folium
 - PowerPoint
